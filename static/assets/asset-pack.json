@@ -1,0 +1,30 @@
+{
+    "section1": {
+        "files": [
+            {
+                "atlasURL": "assets/boy_atlas.json",
+                "textureURL": "assets/boy_atlas.png",
+                "type": "atlas",
+                "key": "boy_atlas"
+            },
+            {
+                "url": "assets/FufuSuperDino.png",
+                "type": "image",
+                "key": "FufuSuperDino"
+            },
+            {
+                "atlasURL": "assets/girl_atlas.json",
+                "textureURL": "assets/girl_atlas.png",
+                "type": "atlas",
+                "key": "girl_atlas"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}
